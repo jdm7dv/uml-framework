@@ -1,0 +1,15 @@
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\PDFExport.dll.config
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\PDFExport.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\PDFExport.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\de\PDFExport.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.PDFExportFinished.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.PDFExportOptions.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.PDFExportProgress.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.Properties.Resources.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.Lang.Strings.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.Lang.Strings.de.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\de\PDFExport.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\PDFExport\obj\Debug\PDFExport.pdb

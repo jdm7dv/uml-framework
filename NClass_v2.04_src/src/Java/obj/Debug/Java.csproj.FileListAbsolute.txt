@@ -1,0 +1,15 @@
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Java.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Java.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Core.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Translations.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Core.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\NClass.Translations.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\de\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\es\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\hu\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\pt-BR\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\ru\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\bin\Debug\zh-CN\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\obj\Debug\Java.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\obj\Debug\NClass.Java.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Java\obj\Debug\NClass.Java.pdb

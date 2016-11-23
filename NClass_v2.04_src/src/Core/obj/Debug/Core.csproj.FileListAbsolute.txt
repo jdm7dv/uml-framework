@@ -1,0 +1,13 @@
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\NClass.Core.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\NClass.Core.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\NClass.Translations.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\NClass.Translations.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\de\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\es\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\hu\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\pt-BR\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\ru\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\bin\Debug\zh-CN\NClass.Translations.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\obj\Debug\NClass.Core.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\Core\obj\Debug\NClass.Core.pdb

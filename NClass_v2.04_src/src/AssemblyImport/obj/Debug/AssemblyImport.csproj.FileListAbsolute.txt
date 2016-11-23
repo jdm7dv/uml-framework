@@ -1,0 +1,15 @@
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\Templates\csproj.template
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\Templates\sln.template
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\AssemblyImport.dll.config
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\AssemblyImport.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\AssemblyImport.pdb
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\GUI\bin\Debug\Plugins\de\AssemblyImport.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\AssemblyImport.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.ImportSettingsForm.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Lang.Strings.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Properties.Resources.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Lang.Strings.de.resources
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\AssemblyImport.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\de\AssemblyImport.resources.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\AssemblyImport.dll
+C:\Users\Jonathan Moore\Downloads\NClass_v2.04_src\NClass_v2.04_src\src\AssemblyImport\obj\Debug\AssemblyImport.pdb
